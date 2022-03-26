@@ -13,6 +13,7 @@
 		84FD438527EEE01D004E7448 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84FD438327EEE01D004E7448 /* Main.storyboard */; };
 		84FD438727EEE020004E7448 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84FD438627EEE020004E7448 /* Assets.xcassets */; };
 		84FD438A27EEE020004E7448 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84FD438827EEE020004E7448 /* LaunchScreen.storyboard */; };
+		84FD439827EEECB4004E7448 /* StackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FD439727EEECB4004E7448 /* StackViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		84FD438627EEE020004E7448 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84FD438927EEE020004E7448 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84FD438B27EEE020004E7448 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84FD439727EEECB4004E7448 /* StackViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				84FD437D27EEE01D004E7448 /* AppDelegate.swift */,
 				84FD437F27EEE01D004E7448 /* SceneDelegate.swift */,
 				84FD438127EEE01D004E7448 /* ViewController.swift */,
+				84FD439727EEECB4004E7448 /* StackViewController.swift */,
 				84FD438327EEE01D004E7448 /* Main.storyboard */,
 				84FD438627EEE020004E7448 /* Assets.xcassets */,
 				84FD438827EEE020004E7448 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84FD438227EEE01D004E7448 /* ViewController.swift in Sources */,
+				84FD439827EEECB4004E7448 /* StackViewController.swift in Sources */,
 				84FD437E27EEE01D004E7448 /* AppDelegate.swift in Sources */,
 				84FD438027EEE01D004E7448 /* SceneDelegate.swift in Sources */,
 			);
